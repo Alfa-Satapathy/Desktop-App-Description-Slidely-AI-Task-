@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{927C2894-0A5E-497D-AA04-65F9C697C6BE}|WpfApp1\\WpfApp1.vbproj|e:\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{927C2894-0A5E-497D-AA04-65F9C697C6BE}|WpfApp1\\WpfApp1.vbproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927C2894-0A5E-497D-AA04-65F9C697C6BE}|WpfApp1\\WpfApp1.vbproj|e:\\wpfapp1\\wpfapp1\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{927C2894-0A5E-497D-AA04-65F9C697C6BE}|WpfApp1\\WpfApp1.vbproj|solutionrelative:wpfapp1\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "E:\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-19T18:11:31.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.vb",
+              "DocumentMoniker": "E:\\WpfApp1\\WpfApp1\\MainWindow.xaml.vb",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.vb",
+              "ToolTip": "E:\\WpfApp1\\WpfApp1\\MainWindow.xaml.vb",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T18:11:29.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
